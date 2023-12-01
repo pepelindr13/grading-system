@@ -1,0 +1,46 @@
+body {
+  background:url(images/ai-generated-8407210_1280.jpg);
+  background-size: cover;
+}
+
+.box {
+  width: max-content;
+  margin:200px auto 0 auto;
+  border-radius: 10px;
+  background-color: rgba(250, 234, 114, 0.2);
+}
+h1 {
+  text-decoration: underline;
+  color: rgb(255, 20, 55);
+  font-weight: 600;
+
+}
+
+input {
+  width: 340px;
+  font-size: 18px;
+  font-weight: 700
+
+}
+
+#empty {
+  height: 50px;
+  width: 340px;
+  border: 2px solid rgb(255, 20, 55);
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 10px;
+  font-weight: 700;
+  background-color: white;
+  font-size: 18px;
+}
+
+button {
+  background-color: rgb(255, 20, 55);
+  border: none;
+  height: 50px;
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+}
+
